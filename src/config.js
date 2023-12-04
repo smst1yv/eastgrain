@@ -6,6 +6,7 @@ const config = {
   production: {
     apiUrl: 'https://east.admin.cybersecuritylab.az/api/',
     storageUrl: 'https://east.admin.cybersecuritylab.az/storage/', 
+    
   },
 };
 
